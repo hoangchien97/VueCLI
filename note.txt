@@ -1,0 +1,38 @@
+1. Development
+
+    - Babel
+        -> ES6
+    - webpack
+        -> Công cụ đóng gói code.
+        - import/export
+2. Production
+
+
+1. dependencies
+
+- Sd xuyen suot
+
+2. Devdependencies
+
+Su dung trong qua trinh lap trinh
+
+webpack cau hinh
+
+output{
+    path
+    publicPath : 'file'
+}
+
+---------------
+
+Tao cac Component moi. dc quan li boi App.vue
+
+App
+    Header
+    Content
+        Detail
+    Footer
+
+Phím tắt :
+
+default.Vue + Tab

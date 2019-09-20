@@ -1,0 +1,20 @@
+<template>
+    <header>
+        <h1>{{text}}</h1>
+    </header>
+</template>
+
+<script>
+export default {
+    name: 'header',
+    data(){
+        return{
+            text: 'Header'
+        }
+    }
+}
+</script>
+
+<style>
+
+</style>
