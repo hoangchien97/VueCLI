@@ -36,3 +36,7 @@ App
 Phím tắt :
 
 default.Vue + Tab
+
+
+-------------
+props : truyen component tu cha -> con
